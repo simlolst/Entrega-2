@@ -3,7 +3,7 @@ El proyecto sigue una estructura de directorios para separar el código en disti
 
 1- `src/`: Contiene el código fuente principal.
 
-2- `procesamiento.py`: Módulo que incluye las funciones encargadas de la lógica del negocio (cálculo de puntajes, determinación de ganadores por ronda e impresión de tablas).
+2- `procesamiento.py`: Módulo que incluye las funciones encargadas de la lógica (cálculo de puntajes, determinación de ganadores por ronda e impresión de tablas).
 
 3-`notebooks/`: Contiene el entorno de ejecución interactivo.
 
