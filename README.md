@@ -2,10 +2,15 @@ Elias Sosa - 028076/1
 El proyecto sigue una estructura de directorios para separar el código en distintas partes:
 
 1- `src/`: Contiene el código fuente principal.
+
 2- `procesamiento.py`: Módulo que incluye las funciones encargadas de la lógica del negocio (cálculo de puntajes, determinación de ganadores por ronda e impresión de tablas).
+
 3-`notebooks/`: Contiene el entorno de ejecución interactivo.
+
 4-`entrega.ipynb`: Jupyter Notebook que importa las funciones de `src`, define el conjunto de datos de las rondas y ejecuta la simulación.
+
 5-`requirements.txt`: Archivo con las dependencias necesarias para correr el proyecto.
+
 
 ## Requisitos Previos
 
